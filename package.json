@@ -7,7 +7,7 @@
     "test:unit": "jest",
     "test": "npm i && jest",
     "test:watch": "npm i && jest --watchAll",
-    "start": "npm i && node ./02/server/index.js"
+    "start": "npm i && node ./server/index.js"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.13.9",
